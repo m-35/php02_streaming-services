@@ -7,9 +7,9 @@
 -【事前にお伝えしたいこと】
 - ※前回提出課題ではできたログインのページ遷移ができなくなりました。
 - 今回はローカルサーバまではOKでした。
-- <https://snails.sakura.ne.jp/php02-m/login.php>。
+- <https://snails.sakura.ne.jp/php02-m/login.php>
 - ※登録したデータ一覧の表示は、ログイン後のページである以下のリンクから確認できます。
-- ＜https://snails.sakura.ne.jp/php02-m/script.php＞
+- <https://snails.sakura.ne.jp/php02-m/script.php>
 - 1.アカウント情報を入力（「index.php」）
 - 2.入力確認画面（「complete.php」）
 - 3.ログイン画面 会社名とパスワードを入力（「login.php」）※現在未解決
